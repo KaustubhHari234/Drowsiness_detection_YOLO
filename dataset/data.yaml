@@ -1,0 +1,11 @@
+
+path: C:/Programming/............codes/Drowsiness Detection/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+
+names:
+    0: Awake
+    1: Drowsy
+    2: Yawn
